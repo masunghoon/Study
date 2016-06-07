@@ -1,0 +1,9 @@
+[submodule "PL/Scala/fpis"]
+	path = PL/Scala/fpis
+	url = git@github.com:masunghoon/Functional-Programming-in-Scala.git
+[submodule "exercism/scala"]
+	path = exercism/scala
+	url = https://github.com/masunghoon/exercism-scala
+[submodule "exercism/go"]
+	path = exercism/go
+	url = https://github.com/masunghoon/exercism-golang
